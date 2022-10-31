@@ -21,7 +21,7 @@ public class Bird {
 
     @Override
     public String toString(){
-        return (name + " (" + latinName+ "): " + observations + " observations");
+        return (name + " (" + latinName+ "): " + observations + " observations.");
     }
 
 
